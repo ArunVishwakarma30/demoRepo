@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "534073100100",
+    "project_id": "flutter-backend-b3056",
+    "storage_bucket": "flutter-backend-b3056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534073100100:android:900200d867b2a7a479b911",
+        "android_client_info": {
+          "package_name": "com.backend.firebase_backend_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534073100100-vukhtpslkrebig4nps4q58al0rfvvn7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbv0EdoYY9OALCMxh1spCw_T1-JagAFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534073100100-vukhtpslkrebig4nps4q58al0rfvvn7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534073100100-mri757fg8vvu23kqqpttgkq31r54kn5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.backend.firebaseBackendApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
